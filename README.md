@@ -59,9 +59,3 @@ Figure 6 shows the results of sensitivity analysis w.r.t the number of interests
 <img width="810" alt="Results; Figure 6" src="https://user-images.githubusercontent.com/44605491/205714840-4f2abd63-4c2f-443c-876e-fb6bdcf09dd3.png">
 
 You can access more results from the original paper. 
-
-## Contributions
-The present study makes several contributions. 
-- First, to the best of our knowledge, it represents the first attempt to incorporate contextual engagement, a critical factor determining users’ following behaviors, to make interpretable followee recommendation. 
-- Second, it contributes to the literature on user representation learning that seeks to represent a user as a vector based on his/her historical behaviors. By modeling the dependencies of users’ successive following decisions, the representation of the user can be interpreted as his/her general preference with the state of contextual engagement. Owing to the extensibility of hierarchical Bayesian framework of the topic model, our realization of dynamic representation learning requires less investment because the representation only relies on the order of the user’s historical following behaviors rather than external timing information (e.g., the timestamp of each behavior) utilized in some extant studies. 
-- Third, we attempt to perform long-tail recommendation through the introduction of users’ contextual engagements. In followee recommendation, the “tail” items refer to less popular or niche followees. Inspired by Figure 1 showing that the popularity of followees gradually decreases when the user is continuously engaged in the current interest, we propose that contextual engagement is relevant to user preference for long-tail information.
