@@ -8,10 +8,10 @@ If you use the code in this repository, please cite the paper "Ran Y, Liu J, Zha
 @article{PELDA2022,
     author    = {Yaxuan Ran and Jiani Liu and Yishi Zhang},
     publisher   = {INFORMS Journal on Computing}
-    title     = {Integrating Users’ Contextual Engagements with Their General Preferences: {A}n Interpretable Followee Recommendation Method},
+    title     = {Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method},
     year      = {2022},
     doi       = {10.5281/zenodo.7460938},
-    url       = {https://github.com/easezh/followee-recommendation}   
+    url       = {https://github.com/INFORMSJoC/2021.0172}   
 }
 ```
 [![DOI](https://zenodo.org/badge/556175895.svg)](https://zenodo.org/badge/latestdoi/556175895)
