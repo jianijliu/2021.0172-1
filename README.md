@@ -3,6 +3,7 @@
 # Integrating Users’ Contextual Engagements with Their General Preferences: An Interpretable Followee Recommendation Method
 
 ## Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
 If you use the code in this repository, please cite the paper "Ran Y, Liu J, Zhang Y (2022) Integrating users’ contextual engagements with their general preferences: An interpretable followee recommendation method. INFORMS Journal on Computing, accepted." Below is the BibTex for citing this version of the material. 
 ```
 @article{PELDA2022,
@@ -14,7 +15,6 @@ If you use the code in this repository, please cite the paper "Ran Y, Liu J, Zha
     url       = {https://github.com/INFORMSJoC/2021.0172}   
 }
 ```
-[![DOI](https://zenodo.org/badge/556175895.svg)](https://zenodo.org/badge/latestdoi/556175895)
 
 ## Description
 Users’ contextual engagements can affect their decisions about who to follow on online social networks because engaged (vs. disengaged) users tend to seek more information about the interested topic and are more likely to follow relevant accounts successively. However, existing followee recommendation methods neglect to consider contextual engagement by only relying on users’ general preferences. In the light of the chronological characteristic of the user’s following behavior, we draw on the engagement theory and propose an interpretable algorithm, namely Preference-Engagement Latent Dirichlet Allocation (PE-LDA), which integrates users’ contextual engagements with their general preferences for followee recommendation. Specifically, we suggest that if a user is engaged in the current interest, he/she will be more likely to select a followee relevant to that interest. If not, the user tends to select a followee according to his/her general preference. That is, a user's following decisions are jointly influenced by the long-term general preference (distribution besides the vertial axis) and the short-term contextual engagement. 
