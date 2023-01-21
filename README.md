@@ -4,6 +4,7 @@
 
 ## Citation
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
 If you use the code in this repository, please cite the paper "Ran Y, Liu J, Zhang Y (2022) Integrating users’ contextual engagements with their general preferences: An interpretable followee recommendation method. INFORMS Journal on Computing, accepted." Below is the BibTex for citing this version of the material. 
 ```
 @article{PELDA2022,
